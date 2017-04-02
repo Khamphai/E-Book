@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--<color name="colorPrimary">#3F51B5</color>-->
+    <!--<color name="colorPrimaryDark">#303F9F</color>-->
+    <!--<color name="colorAccent">#FF4081</color>-->
+
+    <color name="item">#F44336</color>
+
+    <color name="overlay_color">#80000000</color>
+    <color name="bg_white">#FFFFFF</color>
+    <color name="global_bg_white">#fff0f0f0</color>
+    <color name="global_text_black">#ff383838</color>
+
+    <color name="gray">#222327</color>
+    <color name="light_gray">#ff7d7e8d</color>
+    <color name="black">#000000</color>
+    <color name="primary_color">#d43433</color>
+    <color name="primary_dark_color">#c42f2f</color>
+    <color name="accent_color">#00a597</color>
+    <color name="transparent">#00000000</color>
+    <color name="holo_blue_dark">#0099cc</color>
+    <color name="orange">#ff9100</color>
+    <color name="black_transparent_overlay">#9f000000</color>
+    <color name="default_snackbar">#323232</color>
+
+    <color name="black_semi_transparent">#B2000000</color>
+    <color name="background">#e5e5e5</color>
+    <color name="half_black">#808080</color>
+    <color name="white">#fafafa</color>
+    <color name="white_pressed">#f1f1f1</color>
+    <color name="pink">#e91e63</color>
+    <color name="pink_pressed">#ec407a</color>
+    <color name="blue_semi_transparent">#805677fc</color>
+    <color name="blue_semi_transparent_pressed">#80738ffe</color>
+
+    <color name="link">#ff4469ff</color>
+    <color name="link_pressed">#964469ff</color>
+
+</resources>

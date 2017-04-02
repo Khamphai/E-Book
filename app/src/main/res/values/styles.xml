@@ -1,0 +1,38 @@
+<resources>
+
+    <!--&lt;!&ndash; Base application theme. &ndash;&gt;-->
+    <!--<style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">-->
+        <!--&lt;!&ndash; Customize your theme here. &ndash;&gt;-->
+        <!--<item name="colorPrimary">@color/colorPrimary</item>-->
+        <!--<item name="colorPrimaryDark">@color/colorPrimaryDark</item>-->
+        <!--<item name="colorAccent">@color/colorAccent</item>-->
+    <!--</style>-->
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/primary_color</item>
+        <item name="colorPrimaryDark">@color/primary_dark_color</item>
+        <item name="colorAccent">@color/accent_color</item>
+        <item name="android:colorBackground">@color/global_bg_white</item>
+        <item name="android:windowBackground">@color/global_bg_white</item>
+        <item name="android:textColorHighlight">@color/global_bg_white</item>
+        <!--<item name="android:textColorPrimary">@color/global_text_black</item>-->
+        <!--<item name="android:actionMenuTextColor">@color/white</item>-->
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="menu_labels_style">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:paddingRight">@dimen/small_padding</item>
+    </style>
+
+    <style name="DefaultCardView">
+        <item name="cardCornerRadius">@dimen/default_card_view_corner_radius</item>
+        <item name="android:clickable">true</item>
+        <item name="android:foreground">?android:attr/selectableItemBackground</item>
+        <item name="android:drawSelectorOnTop">true</item>
+        <!--<item name="cardElevation">@dimen/default_card_view_elevation</item>-->
+        <item name="cardBackgroundColor">@color/bg_white</item>
+    </style>
+
+</resources>
